@@ -1,6 +1,5 @@
-# 💫 About Me:
-B.Tech. student passionate about Software Developer<br> Skilled in  Python, and Web Development(MERN)<br><br>Built projects like:<br>                                 Video Conferencing Platform (Zoom Clone)<br>  SigmaGPT using OpenAI APIs<br><br>Currently learning Full Stack Development & Cloud Technologies<br>Strong problem-solving skills and interest in Data Structures & Algorithms<br>Focused on building real-world impactful projects<br><br>
-
+# 💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮:
+🎓 𝓑.𝓣𝓮𝓬𝓱 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽<br> 💻 𝓢𝓴𝓲𝓵𝓵𝓮𝓭 𝓲𝓷 𝓟𝔂𝓽𝓱𝓸𝓷 𝓪𝓷𝓭 𝓜𝓔𝓡𝓝 𝓢𝓽𝓪𝓬𝓴 𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽<br>🚀 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼:<br>📹 𝓥𝓲𝓭𝓮𝓸 𝓒𝓸𝓷𝓯𝓮𝓻𝓮𝓷𝓬𝓲𝓷𝓰 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶 (𝓩𝓸𝓸𝓶 𝓒𝓵𝓸𝓷𝓮) <br>  🤖 𝓢𝓲𝓰𝓶𝓪𝓖𝓟𝓣 𝓾𝓼𝓲𝓷𝓰 𝓞𝓹𝓮𝓷𝓐𝓘 𝓐𝓟𝓘𝓼 <br>🌱 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽** & **𝓒𝓵𝓸𝓾𝓭 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼** <br>🧠 𝓢𝓽𝓻𝓸𝓷𝓰 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽 𝓲𝓷 **𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮𝓼 & 𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼**  <br>📊 𝓕𝓸𝓬𝓾𝓼𝓮𝓭 𝓸𝓷 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 **𝓻𝓮𝓪𝓵-𝔀𝓸𝓻𝓵𝓭 𝓲𝓶𝓹𝓪𝓬𝓽𝓯𝓾𝓵 𝓪𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼** <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_4bh4y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abhay-pal-a76687347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhaypal8188@gmail.com) 
