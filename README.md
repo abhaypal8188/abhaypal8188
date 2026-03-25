@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech. student passionate about Software Developer<br> Skilled in  Python, and Web Development<br><br>Built projects like:<br>                                 Video Conferencing Platform (Zoom Clone)<br>                                 SigmaGPT using OpenAI APIs<br><br>Currently learning Full Stack Development & Cloud Technologies<br>Strong problem-solving skills and interest in Data Structures & Algorithms<br>Focused on building real-world impactful projects<br><br>
+B.Tech. student passionate about Software Developer<br> Skilled in  Python, and Web Development(MERN)<br><br>Built projects like:<br>                                 Video Conferencing Platform (Zoom Clone)<br>  SigmaGPT using OpenAI APIs<br><br>Currently learning Full Stack Development & Cloud Technologies<br>Strong problem-solving skills and interest in Data Structures & Algorithms<br>Focused on building real-world impactful projects<br><br>
 
 
 ## 🌐 Socials:
