@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech. student passionate about Software Developer<br> Skilled in  Python, and Web Development<br><br>Built projects like:<br>                                 Video Conferencing Platform (Zoom Clone)<br>                                 SigmaGPT using OpenAI APIs<br><br>Currently learning Full Stack Development & Cloud Technologies<br>Strong problem-solving skills and interest in Data Structures & Algorithms<br>Focused on building real-world impactful projects<br><br>TECHNICAL SKILLS<br>Programming Languages: Python, JavaScript, TypeScript<br>Frameworks & Libraries: React.js, Next.js, Node.js, Express.js, Tailwind CSS<br>Databases: MongoDB,<br>Cloud & Tools:Git, GitHub, VS Code<br>Core Concepts: Data Structures, Algorithms,Object-Oriented Programming (OOPs)<br><br>
+B.Tech. student passionate about Software Developer<br> Skilled in  Python, and Web Development<br><br>Built projects like:<br>                                 Video Conferencing Platform (Zoom Clone)<br>                                 SigmaGPT using OpenAI APIs<br><br>Currently learning Full Stack Development & Cloud Technologies<br>Strong problem-solving skills and interest in Data Structures & Algorithms<br>Focused on building real-world impactful projects<br><br>
 
 
 ## 🌐 Socials:
